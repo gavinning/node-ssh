@@ -1,0 +1,29 @@
+{
+  "name": "node-ssh-shell",
+  "version": "0.1.1",
+  "description": "node ssh shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/node-ssh.git"
+  },
+  "keywords": [
+    "node-ssh-shell",
+    "ssh",
+    "ssh2",
+    "ssh-shell",
+    "node-shell"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/node-ssh/issues"
+  },
+  "homepage": "https://github.com/gavinning/node-ssh#readme",
+  "dependencies": {
+    "ssh2": "^0.6.1"
+  }
+}
